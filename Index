@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Lekkere Taco's </h1>
+<ol>
+	<li><p>Verwarm de oven voor op <b> 180 °C. </b><br>
+		Bereid de guacamole volgens de aanwijzingen op de verpakking.</p></li>
+
+	<li><p>Verhit de olie in een wok of hapjespan en bak het gehakt op hoog vuur in <b> 3 min. </b><br>
+		bruin en rul. Voeg de roerbakgroente toe en roerbak <b> 3 min. </b><br>
+		Spoel de kidneybonen af in een vergiet onder koud stromend water en voeg toe aan het gehaktmengsel. <br>
+		Laat in <b> 3 min. </b> op middelhoog vuur warm worden.</p></li>
+
+	<li><p>Verwarm de taco’s ca. <b> 5 min. </b> in de oven. <br>
+		Snijd ondertussen de ijsbergsla in dunne reepjes. <br>
+		Zet de taco’s, guacamole, salsa, room, het gehakt-bonenmengsel en de sla op tafel. <br>
+		Laat iedereen zijn eigen taco’s maken.</p></li>
+</ol>
+<img src="Taco.jpg">
+</body>
+</html>
